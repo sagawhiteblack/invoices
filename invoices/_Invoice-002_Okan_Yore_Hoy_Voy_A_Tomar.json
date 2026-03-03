@@ -1,0 +1,82 @@
+{
+  "num": "#Invoice-002",
+  "issueDate": "02 de Marzo, 2025",
+  "dueDate": "02 de Abril, 2025",
+  "clientName": "Okan Yore",
+  "clientDetail": "The Favorites / Management<br><br>",
+  "projectName": "Hoy Voy A Tomar",
+  "statusText": "Pago Pendiente",
+  "invoiceStatus": "pending",
+  "items": [
+    {
+      "svc": "Beat / Producción de Track",
+      "desc": "Creación de beat / track (composición, sound design, programación).",
+      "qty": "1",
+      "rate": "6000.00",
+      "sid": "beat_track"
+    },
+    {
+      "svc": "Mezcla",
+      "desc": "Mezcla final (stems, balances, processing, revisions).",
+      "qty": "1",
+      "rate": "650.00",
+      "sid": "mixing"
+    },
+    {
+      "svc": "Mastering",
+      "desc": "Master final para distribución (loudness, EQ, limiting).",
+      "qty": "1",
+      "rate": "150.00",
+      "sid": "mastering"
+    },
+    {
+      "svc": "Arreglos",
+      "desc": "Arreglos y estructura (drops, bridges, transiciones, producción adicional).",
+      "qty": "1",
+      "rate": "500.00",
+      "sid": "arrangement"
+    },
+    {
+      "svc": "Vuelo Cali-Medellin",
+      "desc": "Vuelo de regreso",
+      "qty": "1",
+      "rate": "100.00",
+      "sid": ""
+    },
+    {
+      "svc": "Vuelo Miami-Cali",
+      "desc": "Tarifa por cambio de vuelo existente MIA-MED",
+      "qty": "1",
+      "rate": "100.00",
+      "sid": ""
+    },
+    {
+      "svc": "Session Grabacion Músicos",
+      "desc": "Incluye: Percusionista, Pianista, Bajista, Trombom, Trompeta Horas Estudio De Grabacion y Viaticos Session",
+      "qty": "1",
+      "rate": "1000.00",
+      "sid": ""
+    },
+    {
+      "svc": "Ingeniería de Grabación",
+      "desc": "Ingeniería de grabación (setup, tracking, edición básica, deliverables).",
+      "qty": "1",
+      "rate": "0.00",
+      "sid": "recording_eng"
+    },
+    {
+      "svc": "Preparación de Sesión / Deliveries",
+      "desc": "Preparación de sesión, organización, exports, entregables.",
+      "qty": "1",
+      "rate": "0.00",
+      "sid": "session_prep"
+    }
+  ],
+  "discMode": "cash",
+  "discValue": "0.00",
+  "depositValue": "3805.00",
+  "notes": "Deposito Recibido 21 Enero 2026\nTransferencia a Bancolombia \nTotal COP: 14.000.000 | Cambio Moneda USD: 3.805",
+  "total": "4,695.00",
+  "lang": "es",
+  "savedAt": "2026-03-02T20:59:51.629Z"
+}
