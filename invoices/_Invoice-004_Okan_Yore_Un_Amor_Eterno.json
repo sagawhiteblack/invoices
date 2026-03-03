@@ -1,0 +1,54 @@
+{
+  "num": "#Invoice-004",
+  "issueDate": "3 de marzo, 2026",
+  "dueDate": "2 de abril, 2026",
+  "clientName": "Okan Yore",
+  "clientDetail": "Nombre del Sello / Management<br>\n        Ciudad, País<br>\n[email]<br>\n        +1 (000) 000-0000",
+  "projectName": "Un Amor Eterno",
+  "statusText": "Pago Pendiente",
+  "invoiceStatus": "pending",
+  "items": [
+    {
+      "svc": "Ingeniería de Grabación",
+      "desc": "Ingeniería de grabación (setup, tracking, edición básica, deliverables).",
+      "qty": "1",
+      "rate": "250.00",
+      "sid": "recording_eng"
+    },
+    {
+      "svc": "Edición Vocal / Afinación",
+      "desc": "Edición vocal, limpieza, timing, afinación (Melodyne/Auto-Tune).",
+      "qty": "1",
+      "rate": "250.00",
+      "sid": "vocal_edit_tune"
+    },
+    {
+      "svc": "Session Grabacion Músicos",
+      "desc": "Percusión, Trompeta, Coros Hombre y Mujer",
+      "qty": "1",
+      "rate": "790.00",
+      "sid": ""
+    },
+    {
+      "svc": "Mezcla",
+      "desc": "Mezcla final (stems, balances, processing, revisions).",
+      "qty": "1",
+      "rate": "650.00",
+      "sid": "mixing"
+    },
+    {
+      "svc": "Mastering",
+      "desc": "Master final para distribución (loudness, EQ, limiting).",
+      "qty": "1",
+      "rate": "150.00",
+      "sid": "mastering"
+    }
+  ],
+  "discMode": "cash",
+  "discValue": "0.00",
+  "depositValue": "0.00",
+  "notes": "",
+  "total": "2,090.00",
+  "lang": "es",
+  "savedAt": "2026-03-03T10:29:26.479Z"
+}
