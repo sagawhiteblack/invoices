@@ -33,7 +33,7 @@
       "svc": "Mezcla",
       "desc": "Mezcla final (stems, balances, processing, revisions).",
       "qty": "1",
-      "rate": "500.00",
+      "rate": "650.00",
       "sid": "mixing"
     },
     {
@@ -55,7 +55,7 @@
   "discValue": "30",
   "depositValue": "0.00",
   "notes": "30% Descuento FMLIA",
-  "total": "5,005.00",
+  "total": "5,110.00",
   "lang": "es",
-  "savedAt": "2026-03-03T01:20:39.360Z"
+  "savedAt": "2026-03-03T10:31:53.852Z"
 }
