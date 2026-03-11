@@ -1,0 +1,47 @@
+{
+  "num": "#Invoice-005",
+  "issueDate": "11 de marzo, 2026",
+  "dueDate": "10 de abril, 2026",
+  "clientName": "Polima West",
+  "clientDetail": "<br>",
+  "projectName": "Chavos",
+  "statusText": "Pago Pendiente",
+  "invoiceStatus": "pending",
+  "items": [
+    {
+      "svc": "Mezcla",
+      "desc": "Mezcla final (stems, balances, processing, revisions).",
+      "qty": "1",
+      "rate": "400.00",
+      "sid": "mixing"
+    },
+    {
+      "svc": "Co-Producción Musical",
+      "desc": "Co-Producción (Voxhel) musical (beat, arreglos, dirección artística)",
+      "qty": "1",
+      "rate": "700.00",
+      "sid": ""
+    },
+    {
+      "svc": "Ingeniería de Grabación",
+      "desc": "Ingeniería de grabación (setup, tracking, edición básica, deliverables).",
+      "qty": "1",
+      "rate": "300.00",
+      "sid": "recording_eng"
+    },
+    {
+      "svc": "Mastering",
+      "desc": "Master final para distribución (loudness, EQ, limiting).",
+      "qty": "1",
+      "rate": "100.00",
+      "sid": "mastering"
+    }
+  ],
+  "discMode": "cash",
+  "discValue": "0.00",
+  "depositValue": "0.00",
+  "notes": "",
+  "total": "1,500.00",
+  "lang": "es",
+  "savedAt": "2026-03-11T17:51:43.591Z"
+}
