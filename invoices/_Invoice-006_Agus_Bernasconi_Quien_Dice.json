@@ -1,0 +1,40 @@
+{
+  "num": "#Invoice-006",
+  "issueDate": "6 de abril, 2026",
+  "dueDate": "6 de mayo, 2026",
+  "clientName": "Agus Bernasconi",
+  "clientDetail": "<p style=\"font-style: normal; font-variant-caps: normal; font-width: normal; font-size: 10.5px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-stroke-width: 0px; -webkit-text-stroke-color: rgb(0, 0, 0);\"><span style=\"font-kerning: none;\">Sony Music Entertainment Chile S A</span></p><p style=\"font-style: normal; font-variant-caps: normal; font-width: normal; font-size: 10.5px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-stroke-width: 0px; -webkit-text-stroke-color: rgb(0, 0, 0);\"><span style=\"font-kerning: none;\">Santiago de Chile</span></p><div><p style=\"font-style: normal; font-variant-caps: normal; font-width: normal; font-size: 10.5px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-stroke-width: 0px; -webkit-text-stroke-color: rgb(0, 0, 0);\"><span style=\"font-kerning: none;\">Av. Presidente Riesco 5435. Of. 201</span></p>\nap.chile@sonymusic.com</div><div>R.U.T: 96639390-4</div><div>\n        <a href=\"tel:+1 (000) 000-0000\">+1 (000) 000-0000</a>\n      </div>",
+  "projectName": "Quien Dice",
+  "statusText": "Pago Pendiente",
+  "invoiceStatus": "pending",
+  "items": [
+    {
+      "svc": "Ingeniería de Grabación",
+      "desc": "Ingeniería de grabación (setup, tracking, edición básica, deliverables).",
+      "qty": "1",
+      "rate": "0.00",
+      "sid": "recording_eng"
+    },
+    {
+      "svc": "Producción Musical",
+      "desc": "Producción musical (beat, arreglos, dirección artística).",
+      "qty": "1",
+      "rate": "3500.00",
+      "sid": "music_production"
+    },
+    {
+      "svc": "Edición Vocal / Afinación",
+      "desc": "Edición vocal, limpieza, timing, afinación (Melodyne/Auto-Tune).",
+      "qty": "1",
+      "rate": "0.00",
+      "sid": "vocal_edit_tune"
+    }
+  ],
+  "discMode": "cash",
+  "discValue": "0.00",
+  "depositValue": "0.00",
+  "notes": "Para Wire Transfer\nRouting Number: 021000021",
+  "total": "3,500.00",
+  "lang": "es",
+  "savedAt": "2026-04-06T20:36:49.220Z"
+}
