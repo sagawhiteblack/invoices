@@ -1,0 +1,26 @@
+{
+  "num": "#Invoice-007",
+  "issueDate": "15 de abril, 2026",
+  "dueDate": "15 de mayo, 2026",
+  "clientName": "Benja Valencia",
+  "clientDetail": "Warner Music Chile<div><br></div><div>PO:&nbsp;7100082557<br><br></div>",
+  "projectName": "La Misma Luna",
+  "statusText": "Pago Pendiente",
+  "invoiceStatus": "pending",
+  "items": [
+    {
+      "svc": "Producción Musical",
+      "desc": "Producción musical (beat, arreglos, dirección artística).La Mima Luna | Po: 7100082557",
+      "qty": "1",
+      "rate": "4000.00",
+      "sid": "music_production"
+    }
+  ],
+  "discMode": "cash",
+  "discValue": "0.00",
+  "depositValue": "0.00",
+  "notes": "Para Wire Transfer\nRouting Number: 021000021",
+  "total": "4,000.00",
+  "lang": "es",
+  "savedAt": "2026-04-15T15:52:12.870Z"
+}
