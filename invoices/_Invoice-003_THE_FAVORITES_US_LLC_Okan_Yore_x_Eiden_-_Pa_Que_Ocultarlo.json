@@ -1,0 +1,61 @@
+{
+  "num": "#Invoice-003",
+  "issueDate": "2 de marzo, 2026",
+  "dueDate": "1 de abril, 2026",
+  "clientName": "THE FAVORITES US LLC",
+  "clientDetail": "<div>The Favorites US LLC<div><div><div>4300 Biscayne BLVD</div><div>Suite 203</div><div>Miami, FL 33137</div></div></div></div>",
+  "projectName": "Okan Yore x Eiden - Pa Que Ocultarlo",
+  "statusText": "Pago Pendiente",
+  "invoiceStatus": "pending",
+  "items": [
+    {
+      "svc": "Producción Musical",
+      "desc": "Producción musical (beat, arreglos, dirección artística).",
+      "qty": "1",
+      "rate": "6000.00",
+      "sid": "music_production"
+    },
+    {
+      "svc": "Ingeniería de Grabación",
+      "desc": "Ingeniería de grabación (setup, tracking, edición básica, deliverables).",
+      "qty": "1",
+      "rate": "250.00",
+      "sid": "recording_eng"
+    },
+    {
+      "svc": "Edición Vocal / Afinación",
+      "desc": "Edición vocal, limpieza, timing, afinación (Melodyne/Auto-Tune).",
+      "qty": "1",
+      "rate": "250.00",
+      "sid": "vocal_edit_tune"
+    },
+    {
+      "svc": "Mezcla",
+      "desc": "Mezcla final (stems, balances, processing, revisions).",
+      "qty": "1",
+      "rate": "650.00",
+      "sid": "mixing"
+    },
+    {
+      "svc": "Mastering",
+      "desc": "Master final para distribución (loudness, EQ, limiting).",
+      "qty": "1",
+      "rate": "150.00",
+      "sid": "mastering"
+    },
+    {
+      "svc": "Preparación de Sesión / Deliveries",
+      "desc": "Preparación de sesión, organización, exports, entregables.",
+      "qty": "1",
+      "rate": "0.00",
+      "sid": "session_prep"
+    }
+  ],
+  "discMode": "percent",
+  "discValue": "30",
+  "depositValue": "0.00",
+  "notes": "30% Descuento FMLIA",
+  "total": "5,110.00",
+  "lang": "es",
+  "savedAt": "2026-07-08T01:21:37.488Z"
+}
